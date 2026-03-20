@@ -1,1 +1,19 @@
-Min Video: 23:43:00 -> Finished
+Min Video: 01:30:00 -> Finished
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+HTML (HyperText Markup Language):
+Se encarga de:
+- Describir el contenido.
+
+No se encarga de:
+- La presentación (CSS).
+- Interatividad (JavaScript).
+
+Revisar SEO: OPEN GRAPH
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+CSS:
+Se encarga de:
+- La presentación.
+
+No se encarga de:
+- 
